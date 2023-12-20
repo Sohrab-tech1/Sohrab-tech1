@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sohrab-tech1
+- 👀 I’m interested in machine learning, generative AI and building for impact-tech
+- 🌱 I’m currently learning back-end API development and ML-ops
+- 💞️ I’m looking to collaborate on anything related to Heartspace. Feel free to reach out if you feel that our mission aligns with yours
+- 📫 How to reach me sohrab@heartspace.ai
