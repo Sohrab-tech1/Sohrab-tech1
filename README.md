@@ -1,6 +1,6 @@
 # Sohrab Fadai
 
-Founder of [Heartspace](https://heartspace.ai) – a Stockholm-based PR and public affairs agency.
+Founder of [Heartspace](https://heartspace.ai) – a Stockholm-based PR and public affairs agency. Rhetorician building tools for comms.
 
 I use code to solve communications problems: press distribution systems, client pressrooms, survey platforms, and tools that make PR less manual and more precise.
 
@@ -14,7 +14,7 @@ I use code to solve communications problems: press distribution systems, client 
 
 ## Stack
 
-Astro · Sanity · Cloudflare Pages · Resend · Vercel · TypeScript · React · Tailwind · Supabase · Remix.js  
+Astro · Sanity · Cloudflare Pages · Resend · TypeScript · React · Tailwind · Supabase · Remix.js · AWS · CloudFront
 
 ## Background
 
