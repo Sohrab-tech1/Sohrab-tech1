@@ -2,7 +2,11 @@
 
 Founder of [Heartspace](https://heartspace.ai), building AI-native tools for communications, publishing and business workflows.
 
-My background is in communications, public affairs and rhetoric. Today I work hands-on with product architecture and AI-assisted engineering: defining systems, constraints and tests, then building and reviewing production software together with coding agents.
+I've been interested in computers and software since childhood — building PCs and experimenting with HTML and JavaScript long before technology became part of my professional work.
+
+My career took me into communications, public affairs and rhetoric, but I kept building and learning. I completed full-stack development training in 2023 and today work hands-on across product, software architecture, AI and infrastructure.
+
+I can read, understand and work with code myself, but increasingly use AI coding agents as part of the engineering process: defining architecture and behaviour, reviewing implementations, designing tests and security boundaries, debugging problems and coordinating multiple development loops.
 
 ## What I'm building
 
@@ -20,15 +24,15 @@ AI visibility and citation analysis, agentic research workflows, local speech-to
 
 ## Stack
 
-TypeScript · Node.js · React · Astro · Next.js · Payload CMS · Cloudflare Workers · Vercel · Redis · PostgreSQL · MCP · OAuth · Playwright · Vitest · GitHub Actions
+TypeScript · JavaScript · Node.js · React · Astro · Next.js · Payload CMS · Cloudflare Workers · Vercel · Redis · PostgreSQL · MCP · OAuth · Playwright · Vitest · GitHub Actions
 
 ## How I build
 
-I use AI coding agents extensively.
+I use AI coding agents extensively, but not as a substitute for understanding the software.
 
-My focus is less on manually producing every line of code and more on defining architecture, product behaviour, security boundaries and testable requirements — then iterating with agents until the system works reliably.
+I increasingly work at the system level: defining architecture, product behaviour, interfaces, security constraints and tests, reviewing implementations and debugging problems together with agents.
 
-I'm interested in what engineering looks like when capable AI agents become part of the development team.
+For me, AI-assisted engineering is a way to apply technical understanding at much greater speed and scope.
 
 ## Open source
 
@@ -41,6 +45,12 @@ Most of my current engineering work lives in private Heartspace repositories. I'
 
 ## Background
 
-17+ years in communications and public affairs. Five years in agentic engineering. Rhetoric degree from Uppsala University. Author of *Etisk försäljning* (*Ethical Selling*). 
+I've been building things with computers since childhood, from PCs to early HTML and JavaScript projects.
+
+Professionally, I spent 17+ years in communications and public affairs before software became an increasingly large part of my work. I later completed full-stack development training and began building production systems for Heartspace.
+
+I have a degree in rhetoric from Uppsala University and am the author of *Etisk försäljning* (*Ethical Selling*).
+
+That combination — technology, communication and organisational behaviour — shapes much of what I build today.
 
 [sohrab.se](https://www.sohrab.se) · [heartspace.ai](https://heartspace.ai) · [LinkedIn](https://www.linkedin.com/in/sohrabf)
