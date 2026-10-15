@@ -43,4 +43,4 @@ Most of my current engineering work lives in private Heartspace repositories. I'
 
 17+ years in communications and public affairs. Five years in agentic engineering.Rhetoric degree from Uppsala University. Author of *Etisk försäljning* (*Ethical Selling*). 
 
-[sohrab.se](https://www.sohrab.se) · [heartspace.ai](https://heartspace.ai) · [LinkedIn](https://www.linkedin.com/in/sohrabfadai/)
+[sohrab.se](https://www.sohrab.se) · [heartspace.ai](https://heartspace.ai) · [LinkedIn](https://www.linkedin.com/in/sohrabf)
